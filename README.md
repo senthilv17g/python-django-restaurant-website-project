@@ -5,10 +5,9 @@ Django Restaurant Website Project
 #### Technologies used on this website:
 - Python
 - Django
-- Livewire
-- Sqlite
 - Javascript
 - Jquery
+- Sqlite
 - Css
 - Html
 <br>
