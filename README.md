@@ -6,7 +6,7 @@ Django Restaurant Website Project
 - Python
 - Django
 - JavaScript
-- jSuery
+- jQuery
 - SQLite
 - CSS
 - HTML
