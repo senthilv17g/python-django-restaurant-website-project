@@ -2,6 +2,8 @@ Django Restaurant Website Project
 ---------------------
 2021 / BLM442 Special Topics II in Computer Engineering Course Project
 
+A restaurant website project, has an order system and admin panel connected to the database to control all the content, orders, comments, messages, users and settings.
+
 #### Technologies used on this website:
 - Python
 - Django
